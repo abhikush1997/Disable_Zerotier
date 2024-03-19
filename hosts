@@ -1,0 +1,92 @@
+[all:vars]
+ansible_user=megh_support
+[Echelon]
+100.118.70.72    # Mesher
+100.113.136.123  # Carla
+100.116.75.103   # PAE Living Building
+100.119.52.81    # Harrison Square
+100.66.245.108   # Spruce Park
+100.84.73.76     # Pearl Place 
+100.98.27.12     # JK Gill
+100.110.245.46   # Fleischner-Mayer
+100.69.0.104     # Milepost 5
+100.65.8.87      # Security Public Storage
+100.122.52.3     # Dutch Bros Goose
+100.99.204.38    # Board of Trade
+100.87.168.68    # 2nd & Taylor
+100.72.205.63    # Dutch Bros Slabtown
+100.123.156.2    # MeyerPro
+100.85.112.74    # Crown Plaza 1
+100.99.235.17    # Crown Plaza 2
+100.82.17.88     # Carson Building
+100.111.180.11   # 5th & Taylor 1
+100.86.158.9     # 5th & Taylor 2
+100.94.147.17    # Aspect on Sixth
+100.66.152.12    # Brenneke House
+100.72.127.57    # 230 Ash
+100.74.5.119     # Stadium Shopping Center
+100.81.30.40     # Custom Blocks
+100.64.10.10     # NWCC The Avenues
+100.79.110.36    # Oregon Trail Building
+100.75.36.123    # Hawthorn Market
+100.70.159.122   # Pioneer Park
+100.81.35.81     # Central Plaza 1
+100.102.84.97    # Central Plaza 2
+100.112.143.100  # Center for Philanthropy
+100.110.122.92   # Culver Building
+100.104.52.68    # Beaverton Toyota
+100.109.136.46   # The Carson (Prometheus)
+100.69.235.51    # LL Hawkins
+100.68.97.26     # Concord Building
+100.89.144.29    # Megh PDX Office
+100.123.141.13   # Metro Condos
+100.86.101.55    # Medical Dental
+100.75.62.44     # Pettygrove Medical Center
+100.87.160.29    # Sandy Lofts
+100.122.35.38    # Burnside Stadium
+100.107.198.39   # Northrup Medical
+100.87.160.29    # Sandy Lofts
+100.90.35.65     # Green Leaf Jasper
+100.122.35.38    # West Burnside Shopping
+100.70.233.14    # Alora Properties
+100.75.89.21     # JAMO
+[Ecam]
+100.117.179.18   # Edge Lofts
+100.91.42.77     # Goat Blocks 975
+100.65.109.96    # Goat Blocks 1010
+100.84.28.55     # Goat Blocks 1025
+100.75.8.95      # Dielschneider Bldg
+100.115.245.100  # Rockwood Rising A
+100.113.221.37   # Rockwood Rising C
+100.126.171.13   # Sunrise Tower
+100.84.152.85    # Mazda of Claremont
+100.90.10.9      # The Magnolia
+100.91.77.112    # Workshop
+100.75.160.11    # Santa Ana
+100.113.247.119  # Northview Southview
+100.100.252.57   # Dorado Senior Apartments
+100.97.50.50     # One Eleven Town Center
+100.82.70.27     # Los Robles
+[Edge]
+100.126.79.24    # Banfield
+# 100.119.74.100 # BMW Concord
+100.120.152.73   # The Wyatt
+100.107.55.55    # 511 Building
+100.70.43.67     # Civic Center
+100.78.242.128   # The Addy
+100.78.130.63    # 805 Broadway
+100.83.120.39    # Main Electric Temecula
+100.74.42.78     # Greenfield Leasing
+100.115.201.107  # Greenfield Rec Center
+100.114.33.23    # Greenfield Building 2
+100.99.51.35     # Greenfield Building 3
+100.75.8.123     # Greenfield Building 4
+100.112.5.15     # Greenfield Building 5
+100.108.133.120  # Greenfield Building 6 & 7
+100.109.94.104   # Savier Flats
+100.111.24.7     # Aspire HD 1
+100.69.73.92     # Aspire HD 2
+100.75.108.2     # The Century
+100.109.16.95    # Parkhurst Flower
+100.113.116.22   # Venue A1
+100.82.68.6      # Venue A2
