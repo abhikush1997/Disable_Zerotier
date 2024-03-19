@@ -1,0 +1,9 @@
+- name: Disable
+  hosts: all
+  become: yes 
+  become_user: megh_support
+  tasks:
+    - name: Zerotier Disable
+      shell: |
+        sudo rm /usr/share/applications/mcutils-startup.desktop
+        sudo rm /etc/xdg/autostart/mcutils-startup.desktop
